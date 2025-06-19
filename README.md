@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prerequisites
 #
 - JDK 11 
@@ -23,3 +24,6 @@ sql dump file:
 - > mysql -u <user_name> -p accounts < db_backup.sql
 
 
+=======
+# aws_devops_appdeploy
+>>>>>>> b4fc847877d413649b3eb1f89441438b51b5150f
